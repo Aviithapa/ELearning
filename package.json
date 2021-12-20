@@ -1,0 +1,27 @@
+{
+  "name": "e-learning",
+  "version": "1.0.0",
+  "description": "AN E-Learning Platform ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "E-Learning",
+    "Online",
+    "Learning",
+    "in",
+    "Nepal",
+    "Learn",
+    "Online",
+    "Learning"
+  ],
+  "author": "Abhishek Thapa",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "dotnav": "0.0.1",
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
